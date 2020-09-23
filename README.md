@@ -47,9 +47,7 @@ Django is a High-Level Python Web Framework that Encourages Rapid Development an
 #### Basic Commands :
 
 Following are Some Commands for Running the Project :
-```sh
-$ node app
-```
+
 **Check Django Version** :
 ```sh
 $ python3 -m django --version
