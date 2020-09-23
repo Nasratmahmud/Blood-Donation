@@ -17,7 +17,6 @@
 
 #### Technology Used :
 
-- **Ubuntu** :  A Free and Open-source Operating System (Version 20.04.1)
 - **Python** : An Interpreted, High-level Programming Language (Version 3.8.2)
 - **Django** : Python-based Free and Open-source Web Framework (Version 2.2.12)
 - **Bootstrap 4** : A Free and Open-source CSS Framework (Version 4.5.2)
